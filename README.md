@@ -1,7 +1,9 @@
 # Explore-Relationships-in-Data
-Explore statistical and pattern relationships in data.
+Explore statistical and pattern relationships in data using K-means and DBSCAN.
 
 Using Plotly Dash to showcase fake analysis.
+
+NOTE: Data used is fake and does not represent anything. Focus of the project is data analysis and clustering and using Streamlit to display the findings.
 
 ## Run Locally
 
