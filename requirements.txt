@@ -1,0 +1,4 @@
+streamlit
+plotly
+sweetviz
+scikit-learn
